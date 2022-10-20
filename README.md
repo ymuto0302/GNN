@@ -12,5 +12,6 @@ GNN (Graph Neural Network) に関するコードを置く
 <h2>PyTorch Geometric の使い方</h2>
 <ul>
   <li><a href="RandomLinkSplit_動作チェック.ipynb">RandomLinkSplitの動作を確認</a>
+  <li><a href="negative_sampling_挙動観察.ipynb">torch_geometric.utils.negative_sampling の挙動観察</a>
 </ul>
   
