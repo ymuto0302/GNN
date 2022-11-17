@@ -9,7 +9,7 @@ GNN (Graph Neural Network) に関するコードを置く
 
 <hr>
 
-<h2>タグ推薦のためのコード
+<h2>タグ推薦のためのコード</h2>
 <ul>
 <li><a href="make_hashtag_dataset.ipynb">make_hashtag_dataset.ipynb</a>
 </ul>
